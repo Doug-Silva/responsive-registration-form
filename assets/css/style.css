@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&family=Open+Sans:wght@300;400;500;600&display=swap');
 
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
 }
 
-body{
+body {
     width: 100%;
     height: 100vh;
     display: flex;
@@ -15,4 +15,5 @@ body{
     align-items: center;
     background: #8ec7d54d;
 }
-/* cor da imagem - #1188b4d7 */
+
+/* cor da imagem da foto - #1188b4d7 */
