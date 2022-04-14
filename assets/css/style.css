@@ -16,4 +16,11 @@ body {
     background: #8ec7d54d;
 }
 
+.container{
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .212);
+}
+
 /* cor da imagem da foto - #1188b4d7 */
