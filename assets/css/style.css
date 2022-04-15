@@ -24,3 +24,12 @@ body {
 }
 
 /* cor da imagem da foto - #1188b4d7 */
+
+.form-image{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fde3a7d7;
+    padding: 1rem;
+}
